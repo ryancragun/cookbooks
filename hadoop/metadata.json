@@ -30,7 +30,6 @@
       "hadoop::conf_pseudo": "Installs hadoop-conf-pseudo and enables hadoop services",
       "hadoop::hive": "Installs hadoop's hive package",
       "hadoop": "Installs hadoop from Cloudera's repo",
-      "hadoop::doc": "Installs hadoop documentation"
     },
     "replacing": {
     },
