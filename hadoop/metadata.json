@@ -27,7 +27,6 @@
     "providing": {
     },
     "recipes": {
-      "hadoop::pig": "Installs hadoop's pig package",
       "hadoop::conf_pseudo": "Installs hadoop-conf-pseudo and enables hadoop services",
       "hadoop::hive": "Installs hadoop's hive package",
       "hadoop": "Installs hadoop from Cloudera's repo",
